@@ -1,4 +1,4 @@
-### Olá, Muito Prazer em Te conhecer! Me chamo Bruno Silva! 
+### Olá, Me chamo Bruno Silva! 
 ### Seja Bem-Vindo! 
 ### ----------------------------------
 
