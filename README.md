@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente trabalho como Analista de Suporte TI
 - 🌱 Atualmente, meu foco nos estudos é JavaScript, Python e Java
-- 👯 Cursando Analise e Desenvolviment de Sistemas
+- 👯 Cursando Analise e Desenvolvimento de Sistemas
 
 <div>
   <a href="https://github.com/Brunoortega10">
