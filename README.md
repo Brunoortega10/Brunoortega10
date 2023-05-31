@@ -2,7 +2,7 @@
 ### Seja Bem-Vindo! 
 ### ----------------------------------
 
-- 🔭 Atualmente trabalho como Analista de Suporte TI
+- 🔭 Atualmente trabalho como Analista de Infra TI
 - 🌱 Atualmente, meu foco nos estudos é JavaScript, Python e Java
 - 👯 Cursando Analise e Desenvolvimento de Sistemas
 
